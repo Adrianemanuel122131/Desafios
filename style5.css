@@ -25,14 +25,14 @@ body {
 }
 
 .links a:hover {
-    color: #05e623;
-    border-top: 2px solid #05e623;
-    border-bottom: 2px solid #05e623;
+    color: #ebe041;
+    border-top: 2px solid #ebe041;
+    border-bottom: 2px solid #ebe041;
 }
 
 .link-a-1 {
-    background-color: #09bb18;
-    border: #05e649 solid 2px;
+    background-color: #cdc21e;
+    border: #a79310 solid 2px;
     color: white;
     font-weight: bold;
     padding: 10px;
@@ -40,7 +40,7 @@ body {
 
 .link-a-2 {
     background-color: transparent;
-    border: #05e649 solid 2px;
+    border: #a79310 solid 2px;
     font-weight: bold;
     padding: 5px;
 }
@@ -52,11 +52,11 @@ body {
 }
 
 .span-1 {
-    color: #0e8503;
+    color: #cdc21e;
 }
 
 .span-2 {
-    color: #18e605;
+    color: #ebe041;
 }
 
 .secao-1{
