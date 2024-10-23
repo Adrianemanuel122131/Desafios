@@ -8,14 +8,14 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
+  background: linear-gradient(to bottom right, orange, black);
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .container {
-  background-color: #fafafa;
+  background-color: #ebe041;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   width: 400px;
