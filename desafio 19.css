@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(120deg, #69fff3 25%, #3fff69 100%);
+    background: linear-gradient(to bottom right, orange, black);
 }
 
 .container {
